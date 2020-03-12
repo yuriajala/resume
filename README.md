@@ -2,6 +2,7 @@
 *Master of Science in Signal processing applied to Magnetic Resonance in Medical Imaging*
 
 <img src="/images/perfil.png">
+
 ## Presentation
 Comecei a me interessar por ressonância magnética em 2015 e logo vim para São Carlos em busca de oportunidades para estudar o assunto. Desenvolvi um projeto como voluntário no CIERMag por pouco mais de um ano e dei continuidade como aluno de Mestrado na EESC com co-orientação do Prof. Fernando Paiva. Tive a oportunidade de estudar os princípios da ressonância magnética e focar o projeto em modelagem e processamento de imagem e sinais gradiente eco, um trabalho que exigiu diariamente habilidades de programação computacional. Atualmente co-oriento dois alunos de graduação (EESC e IFSC) em projetos relacionados. Busco agora oportunidades profissionais relacionadas a ressonância magnética.
 ## Current Job
