@@ -42,8 +42,13 @@ Profa. Dra. Evandro Luis Linhari Rodrigues (EESC)
 Current date: 01-13-2017   AJALA, Y.C. ; KOLTERMANN, P. I., [Analysis of interactive software and hardware technology usage in active learning methodology for engineering, originally in Portuguese] In: Congresso Brasileiro de Educação em Engenharia, 2014, Juíz de Fora - MG. COBENGE 2014, 2014. ISSN: 2175-957X 
 
 
-## Other interests 
-I really enjoy self-teaching. I have recently started checking some content on deep learning and this semester I would like to add big data studies. Music is passion for me and I am able to play a few instruments, mainly string-based. I like to pay close attention to the details when I listen to a song, so I enjoy it as much as reading or watching a movie. I really make an effort to travel at least twice a year, even if it is for a short period. I love visiting new places and meeting people, especially when there are different cultures involved. I am a cheerleader!
+
+## Five things you need to know about me (do you really?)
+1. I break the shell of a boiled egg and also eat [coxinhas](https://www.thespruceeats.com/coxinha-brazilian-chicken-croquettes-3029668) from the little end. I have tried starting on the big end once or twice though, no big deal, just not my thing.
+2. I can play some musical instruments - the bass, mainly. Others include: acoustic guitar (okay), electric guitar (terrible), drums (i can fake it), piano (can fake better than drums), violin (don’t ask me, your ears will bleed).
+3. I am not much into online video games but I do enjoy tabletop game nights in good companionship.
+4. I was 12 and presented a poem at a festival in my school, full theatre. I passed out right after the third line. But hey, I was a gentleman enough to excuse myself and black out at the corner of the stage. Surprisingly, I currently enjoy the challenge of performing public speeches and presentations.
+5. I used to enjoy swimming but was never really into any sport, especially team sports (PE classes = soccer). When I was 29 I started practicing cheerleading and found a welcoming place and discovered I was still able to achieve a lot physically.
 
 ## Programming Languages
 - Python
