@@ -1,9 +1,12 @@
 # Yuri Ajala Da Costa, M.Sc.
-*Master of Science in Signal processing applied to Magnetic Resonance in Medical Imaging*
-
+*An electrical engineer who found himself in love for computational physics & data analysis.*
 <img src="/images/perfil.png">
 
 ## Presentation
+During my undergraduate years in Electrical Engineering (they are 5 in Brazil) I was not much really into the *electrical engineering* stuff. I did enjoy the physics behind it, the computational methods, the how's and why's. Shortly after graduation when I had no idea what to do with my life, I received a proposal to work with Magnetic Resonance Imaging (MRI). I studied how it worked, the engineering behind it, the data treatments applied to it. And I if this is not your field, I will tell you it's beautiful. Eventually, our project did not move forward but then I understood how all those concepts I already knew as an electrical engineer could take me much further. I decided to start a Masters in a MRI-related topic. I currently work at a company that makes a time-domain magnetic resonance (TD-NMR) device used in industry for quality control processes to analyze their by products non-destructively. My job there is to develop new applications based on scientific evidence.
+
+
+
 Comecei a me interessar por ressonância magnética em 2015 e logo vim para São Carlos em busca de oportunidades para estudar o assunto. Desenvolvi um projeto como voluntário no CIERMag por pouco mais de um ano e dei continuidade como aluno de Mestrado na EESC com co-orientação do Prof. Fernando Paiva. Tive a oportunidade de estudar os princípios da ressonância magnética e focar o projeto em modelagem e processamento de imagem e sinais gradiente eco, um trabalho que exigiu diariamente habilidades de programação computacional. Atualmente co-oriento dois alunos de graduação (EESC e IFSC) em projetos relacionados. Busco agora oportunidades profissionais relacionadas a ressonância magnética.
 ## Current Job
 FIT - Fine Instrument Technology
