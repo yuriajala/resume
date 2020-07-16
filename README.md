@@ -13,6 +13,7 @@ Application Developer - R&D at FIT - Fine Instrument Technology, São Carlos, SP
 
 ## Professional Experience
 - *(2018 - Current) [Fine Instrument Technology](http://www.fitinstrument.com), São Carlos, SP, Brazil.*
+
 I started off at there the IT department in 2018 contributing as a Software Engineer, developing and coding mathematical models in to be wired in backed and also developing frontend solutions for their software applications. On my own initiative, reestructured the User Manual of the leading product, an important asset for user experience, which now complies with CE regulations and is an ongoing job for our other products.
 Late in 2018 I moved to the R&D department, where I am an Application Developer. As the TD-NMR adaptable to many scenarios, each potential client must be studied. I analyze new proposals, costumer samples and acquired data based on scientific methods and evaluate the potential for a new product, coming up with a model or algorithm for it when needed. I am also one of the responsibles forinstallation and support of our established products.    
 
