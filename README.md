@@ -1,12 +1,13 @@
 # Yuri Ajala Da Costa, M.Sc.
 *Electrical engineer with tendencies to computational physics & data analysis.*
 
-
+<img src="/images/perfil.png" height="300">
 
 ## Presentation
-<img src="/images/perfil.png" align="right" height="240">
-During my undergraduate years in Electrical Engineering (they are 5 in Brazil) I was not much into the *electrical engineering* stuff. I did, though, enjoy the physics behind it, the computational methods, the how's and why's. Shortly after graduation, right at that moment when one has no idea what to do with their lives, I received a proposal to work with Magnetic Resonance Imaging (MRI). I studied how it worked, the engineering behind it, the data treatments applied to it. If this is not your field, let me tell you: it's just *beautiful*. The proposal did not move forward but it got me to understand how all those concepts I already knew as an electrical engineer could take me much further. I decided to start a Masters in a MRI-related topic: on how to improve a MRI liver test using neural nets. I currently work developing new applications at a company that makes a time-domain magnetic resonance (TD-NMR) device used in food industry for quality control. There is still a lot we can do using this technology and I feel like my job is to find out.
+As an Electrical Engineering (EE) undergraduate I was not much into my major *per se*. I did, though, enjoy the physics, math, the how's and why's. Shortly after graduation, that moment when one has no idea what to do with their lives, I received a proposal to work with Magnetic Resonance Imaging (MRI). I studied how it worked, the engineering behind it, the data treatments applied to it. It's just *beautiful*. The proposal did not move forward, but I understood I was not limited to my bachelor degree and that the the concepts I learned in college could take me much further. I decided to start a Masters in a MRI-related topic: how to improve a MRI liver test using neural networks. I currently work developing new applications at a company that makes a time-domain magnetic resonance (TD-NMR) device used in food industry for quality control. There is still a lot we can do using this technology and I feel like my job is to find out.
 
+
+-----------
 
 
 Comecei a me interessar por ressonância magnética em 2015 e logo vim para São Carlos em busca de oportunidades para estudar o assunto. Desenvolvi um projeto como voluntário no CIERMag por pouco mais de um ano e dei continuidade como aluno de Mestrado na EESC com co-orientação do Prof. Fernando Paiva. Tive a oportunidade de estudar os princípios da ressonância magnética e focar o projeto em modelagem e processamento de imagem e sinais gradiente eco, um trabalho que exigiu diariamente habilidades de programação computacional. Atualmente co-oriento dois alunos de graduação (EESC e IFSC) em projetos relacionados. Busco agora oportunidades profissionais relacionadas a ressonância magnética.
