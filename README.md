@@ -1,5 +1,5 @@
 # Yuri Ajala Da Costa, M.Sc.
-*Electrical engineer with tendencies to computational physics & data analysis.*
+*Electrical engineer with serious tendencies to computational physics & data analysis.*
 
 <img src="/images/perfil.png" height="300">
 
