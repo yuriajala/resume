@@ -4,7 +4,7 @@
 <img src="/images/perfil.png" height="300">
 
 ## Presentation
-As an Electrical Engineering (EE) undergraduate I was not much into my major *per se*. I did, though, enjoy the physics, math, the how's and why's. Shortly after graduation, that moment when one has no idea what to do with their lives, I received a proposal to work with Magnetic Resonance Imaging (MRI). I studied how it worked, the engineering behind it, the data treatments applied to it. It's just *beautiful*. Even though the proposal did not move forward, served me to learn I was not limited to my bachelor degree and that the the concepts I learned in college could take me much further. I decided to start a Masters in a MRI-related topic: how to improve a MRI liver test using neural networks. I currently work developing new applications at a company that manufactures a time-domain magnetic resonance (TD-NMR) device used in food industry for quality control. There is still a lot we can do using this technology and I feel like my job is to find out.
+>As an Electrical Engineering (EE) undergraduate I was not much into my major *per se*. I did, though, enjoy the physics, math, the how's and why's. Shortly after graduation, that moment when one has no idea what to do with their lives, I received a proposal to work with Magnetic Resonance Imaging (MRI). I studied how it worked, the engineering behind it, the data treatments applied to it. It's just *beautiful*. Even though the proposal did not move forward, served me to learn I was not limited to my bachelor degree and that the the concepts I learned in college could take me much further. I decided to start a Masters in a MRI-related topic: how to improve a MRI liver test using neural networks. I currently work developing new applications at a company that manufactures a time-domain magnetic resonance (TD-NMR) device used in food industry for quality control. There is still a lot we can do using this technology and I feel like my job is to find out.
 
 
 -----------
@@ -12,10 +12,9 @@ As an Electrical Engineering (EE) undergraduate I was not much into my major *pe
 Application Developer - R&D at FIT - Fine Instrument Technology, São Carlos, SP, Brazil
 
 ## Professional Experience
-- (2018 - Current) [FIT - Fine Instrument Technology](http://www.fitinstrument.com), São Carlos, SP, Brazil.
-
-I started off at there the IT department in 2018 contributing as a Software Engineer, developing and coding mathematical models in to be wired in backed and also developing frontend solutions for their software applications. On my own initiative, reestructured the User Manual of the leading product, an important asset for user experience, which now complies with CE regulations and is an ongoing job for our other products.
-Late in 2018 I moved to the R&D department, where I am an Application Analyst. As the TD-NMR adaptable to many scenarios, each potential client must be studied. I analyze new proposals, costumer samples and acquired data based on scientific methods and evaluate the potential for a new product, coming up with a model or algorithm for it when needed. I am also one of the responsibles forinstallation and support of our established products.    
+- *(2018 - Current) [Fine Instrument Technology](http://www.fitinstrument.com), São Carlos, SP, Brazil.*
+>I started off at there the IT department in 2018 contributing as a Software Engineer, developing and coding mathematical models in to be wired in backed and also developing frontend solutions for their software applications. On my own initiative, reestructured the User Manual of the leading product, an important asset for user experience, which now complies with CE regulations and is an ongoing job for our other products.
+Late in 2018 I moved to the R&D department, where I am an Application Developer. As the TD-NMR adaptable to many scenarios, each potential client must be studied. I analyze new proposals, costumer samples and acquired data based on scientific methods and evaluate the potential for a new product, coming up with a model or algorithm for it when needed. I am also one of the responsibles forinstallation and support of our established products.    
 
 
 ## Experiência Profissional e de Pesquisa Acadêmica 
