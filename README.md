@@ -2,7 +2,13 @@
 *Electrical Engineer with M.Sc. in Signal Processing & Medical Image    |    Contact: yuri.ajala@gmail.com*
  
 Passion for understanding how things work – Do you have to model and simulate a complex system? Are your datasets giving you a headache to make sense of them? Let me help you with that.
-## Experience
+<!--
+## Research Experience
+- fit: oil, fat and meat analysis using low field nmr
+- Masters: MRI image/signal processing - paper, conference prague, poster prague, conference SBC segmentation, conference SBC gabi, livertool
+- batlab, buck-boost project design, learning in engineering
+-->
+## Work Experience
 - FIT (Fine Instrument Technology), Brazil
 *Middle  Analyst & Senior Applications Engineer*
 JAN 2019 - JAN 2021
