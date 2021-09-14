@@ -1,7 +1,7 @@
 # Yuri Ajala Da Costa
 *Electrical Engineer with M.Sc. in Signal Processing & Medical Image    |    Contact: yuri.ajala@gmail.com*
  
-Passion for understanding how things work – Do you have to model and simulate a complex system? Are your datasets giving you a headache to make sense of them? Let me help you with that.
+Passion for understanding how things work – Do you have to model and simulate a complex system? Are your datasets giving you a headache? Let me help you with that.
 <!--
 ## Research Experience
 - fit: oil, fat and meat analysis using low field nmr
@@ -22,7 +22,7 @@ Titan Aerospace was a manufacturer of unmanned aerial vehicles. My roles include
 - BATLAB, Brazil
 *Researcher apprentice*
 2013 - 2014
-BATLAB is a university lab for I.A. and automation. During my BSc time, I was a researcher apprentice, working on PCB design and analog filters. [Website (outdated)](https://www.facebook.com/batlab.ufms/)
+BATLAB is a university lab for A.I. and automation. During my BSc time, I was a researcher apprentice, working on PCB design and analog filters. [Website (outdated)](https://www.facebook.com/batlab.ufms/)
 
 ## Education
 - University of Sao Paulo, Brazil — *M.Sc.*
