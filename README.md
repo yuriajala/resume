@@ -29,7 +29,7 @@ BATLAB is a university lab for A.I. and automation. During my BSc time, I was a 
 2017 - 2019
 Master’s degree in medical data & image processing. By analyzing MRI images, I developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver. [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf) and [journal publication](https://www.hindawi.com/journals/cmra/2019/3439468/).
 
-- UFMS, Brazil / WMU, USA — *B.Sc.*
+- UFMS, Brazil / Western Michigan University, USA — *B.Sc.*
 2008 - 2014
 Bachelor of Science in Electrical Engineering. Awarded a scholarship to study Electrical Engineering at the Western Michigan University for one year. At that time I was part of the WMU’s [Solar Racing Car team](https://www.wmich.edu/sunseeker/) developing cooling systems.
 
