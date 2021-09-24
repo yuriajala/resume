@@ -2,17 +2,26 @@
 *Electrical Engineer with M.Sc. in Signal Processing & Medical Image    |    Contact: yuri.ajala@gmail.com*
  
 Passion for understanding how things work – Do you have to model and simulate a complex system? Are your datasets giving you a headache? Let me help you with that.
-<!--
-## Research Experience
+
+## Scientific Research Experience & Publications
+### NMR
 - fit: oil, fat and meat analysis using low field nmr
+### MRI & Computer vision
 - Masters: MRI image/signal processing - paper, conference prague, poster prague, conference SBC segmentation, conference SBC gabi, livertool
+### Data science
 - batlab, buck-boost project design, learning in engineering
--->
+### Electronics
+
 ## Work Experience
 - FIT (Fine Instrument Technology), Brazil
-*Middle  Analyst & Senior Applications Engineer*
+*Middle Analyst & Senior Applications Engineer*
 JAN 2019 - JAN 2021
-FIT is a bench magnetic resonance (MR) manufacturer, offering a product to control quality of products in a non-destructive manner. My roles included developing new MR applications, model and implement mathematical solutions, analyse client data, and coordinate the mechanical, software and application teams to build a product from scratch. [Website](http://www.fitinstrument.com)
+FIT is a bench magnetic resonance (MR) manufacturer, offering a product to control quality of products in a non-destructive manner. My roles were to develop new MR applications, program pulse sequences, model and implement mathematical solutions, analyse client data, assist clients with technical support, write the product manual, and coordinate the mechanical, software and application teams to build a product from scratch. [Website](http://www.fitinstrument.com)
+
+- University Of Sao Paulo At Sao Carlos
+*Teacher Assistant*
+2018
+Assisted Electrical Engineering & Computer Science undergratuate students in the course "Embedded Electronic Systems Programming Lab", helping them to develop Intel 8085 and Arduino applications and to produce outstanding Lab Reports using scientific method.
 
 - Titan Aerospace, USA
 *Electrical Engineer Intern*
