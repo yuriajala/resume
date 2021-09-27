@@ -1,11 +1,19 @@
 # Yuri Ajala Da Costa
 *Electrical Engineer with M.Sc. in Signal Processing & Medical Image    |    Contact: yuri.ajala@gmail.com*
  
-Passion for understanding how things work – Do you have to model and simulate a complex system? Are your datasets giving you a headache? Let me help you with that.
+Passion for understanding how stuff work and improving them.
 
 ## Scientific Research Experience & Publications
+- Industry research (unpublished due to business confidentiality):
+    - Total oil detection in various steps of palm oil extraction using time-domain NMR.
+    - Solid fat content determination using time-domain NMR in different fat sources for food industry.
+    - Meat tenderness prediction using non-destructive time-domain NMR and ultrassound techniques allied to artificial intelligence.
+- Academic research:
+    - Full-range liver fat fraction estimation in magnitude MRI using a signal shape descriptor. [Journal publication - Concepts in Magnetic Resonance Part A](https://www.hindawi.com/journals/cmra/2019/3439468/),
+    [Conference oral presentation - IUPESM 2018](https://github.com/yuriajala/resume/blob/master/Files/oral-presentation-iupesm.pdf)
+    - Noise effects in hepatic fat fraction estimation methods by using magnitude MRI. [Conference poster - IUPESM 2018](https://github.com/yuriajala/resume/blob/master/Files/poster-iupesm.pdf)
 ### NMR
-- fit: oil, fat and meat analysis using low field nmr
+- fit: oil, fat and meat analysis using low field nmr & ultrasound
 ### MRI & Computer vision
 - Masters: MRI image/signal processing - paper, conference prague, poster prague, conference SBC segmentation, conference SBC gabi, livertool
 ### Data science
@@ -16,7 +24,7 @@ Passion for understanding how things work – Do you have to model and simulate 
 - FIT (Fine Instrument Technology), Brazil
 *Middle Analyst & Senior Applications Engineer*
 JAN 2019 - JAN 2021
-FIT is a bench magnetic resonance (MR) manufacturer, offering a product to control quality of products in a non-destructive manner. My roles were to develop new MR applications, program pulse sequences, model and implement mathematical solutions, analyse client data, assist clients with technical support, write the product manual, and coordinate the mechanical, software and application teams to build a product from scratch. [Website](http://www.fitinstrument.com)
+FIT is a bench magnetic resonance (MR) manufacturer, offering a product to control quality of products in a non-destructive manner. My roles were to develop new MR applications based on scientific literature, program pulse sequences, model and implement mathematical solutions, analyse client data, assist clients with technical support, write the product manual, and coordinate the mechanical, software and application teams to build a product from scratch. [Website](http://www.fitinstrument.com)
 
 - University Of Sao Paulo At Sao Carlos
 *Teacher Assistant*
@@ -36,7 +44,7 @@ BATLAB is a university lab for A.I. and automation. During my BSc time, I was a 
 ## Education
 - University of Sao Paulo, Brazil — *M.Sc.*
 2017 - 2019
-Master’s degree in medical data & image processing. By analyzing MRI images, I developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver. [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf) and [journal publication](https://www.hindawi.com/journals/cmra/2019/3439468/).
+Master’s degree in medical data & image processing. By analyzing MRI images, I developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver. [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf).
 
 - UFMS, Brazil / Western Michigan University, USA — *B.Sc.*
 2008 - 2014
