@@ -8,17 +8,16 @@ Passion for understanding how stuff work and improving them.
     - Total oil detection in various steps of palm oil extraction using time-domain NMR.
     - Solid fat content determination using time-domain NMR in different fat sources for food industry.
     - Meat tenderness prediction using non-destructive time-domain NMR and ultrassound techniques allied to artificial intelligence.
-- Academic research:
-    - Full-range liver fat fraction estimation in magnitude MRI using a signal shape descriptor. [Journal publication - Concepts in Magnetic Resonance Part A](https://www.hindawi.com/journals/cmra/2019/3439468/),
-    [Conference oral presentation - IUPESM 2018](https://github.com/yuriajala/resume/blob/master/Files/oral-presentation-iupesm.pdf)
+- Academic contributions in MRI:
+    - Full-range liver fat fraction estimation in magnitude MRI using a signal shape descriptor. [Journal publication - Concepts in Magnetic Resonance Part A](https://www.hindawi.com/journals/cmra/2019/3439468/) and
+    [conference oral presentation - IUPESM 2018](https://github.com/yuriajala/resume/blob/master/Files/oral-presentation-iupesm.pdf)
     - Noise effects in hepatic fat fraction estimation methods by using magnitude MRI. [Conference poster - IUPESM 2018](https://github.com/yuriajala/resume/blob/master/Files/poster-iupesm.pdf)
-### NMR
-- fit: oil, fat and meat analysis using low field nmr & ultrasound
-### MRI & Computer vision
-- Masters: MRI image/signal processing - paper, conference prague, poster prague, conference SBC segmentation, conference SBC gabi, livertool
-### Data science
-- batlab, buck-boost project design, learning in engineering
-### Electronics
+    - Segmentation of hepatic tissue in MRI using fuzzy logic. [Conference poster - SIMM/SPS 2017](https://github.com/yuriajala/resume/blob/master/Files/2017_liver_segment_poster.pdf)
+    - Livertool: an Open-source tool for liver fat fraction estimation with MRI. [Python](https://github.com/yuriajala/livertool) and [MATLAB](https://github.com/yuriajala/matlab-livertool), [Conference poster - SIMM/SPS 2017](https://github.com/yuriajala/resume/blob/master/Files/2017_livertool_poster.pdf)
+    - Evaluation of fitting parameters for fat fraction estimation with MRI. [Co-author, conference oral publication](https://github.com/yuriajala/resume/blob/master/Files/2017_fitting_parameters.pdf)
+- Academic contributions in *teaching in Engineering*:
+    - A buck and boost didactic plant with electro-mechanical selection of the operation mode. [Conference paper, XI COBEP, 2011](https://ieeexplore.ieee.org/document/6085317)
+    - Analysis of software and hardware interactive technologies in active learning in education in engineering. [Conference paper in Portuguese, COBENGE 2014](https://github.com/yuriajala/resume/blob/master/Files/Cobenge_2014_active_learning.pdf)
 
 ## Work Experience
 - FIT (Fine Instrument Technology), Brazil
