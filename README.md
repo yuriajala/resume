@@ -1,7 +1,21 @@
 # Yuri Ajala Da Costa
 *Electrical Engineer with M.Sc. in Signal Processing & Medical Image    |    Contact: yuri.ajala@gmail.com*
- 
+
 Passion for understanding how stuff work and improving them.
+
+## Education
+- University of Sao Paulo S, Brazil — *M.Sc. in Electrical Engineering*
+2017 - 2019
+    - Conducted academic research in the Signal & Image Processing Group in the Sao Carlos School of Electrical Engineering in collaboration with the Group of Magnetic Resonance, Spectroscopy and Magnetism in the Sao Carlos Institute of Physics
+    - Developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf)
+    - CAPES (Coordination of Improvement of Higher Level Personnel) fully‐funded scholarship grantee
+    - Relevant coursework: 
+
+Master’s degree in medical data & image processing. By analyzing MRI images, I developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver. [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf).
+
+- UFMS, Brazil / Western Michigan University, USA — *B.Sc.*
+2008 - 2014
+Bachelor of Science in Electrical Engineering. Awarded a scholarship to study Electrical Engineering at the Western Michigan University for one year. At that time I was part of the WMU’s [Solar Racing Car team](https://www.wmich.edu/sunseeker/) developing cooling systems.
 
 ## Scientific Research Experience & Publications
 - Industry research (unpublished due to business confidentiality):
@@ -39,15 +53,6 @@ Titan Aerospace was a manufacturer of unmanned aerial vehicles. My roles include
 *Scientific Initiation Fellow*
 2013 - 2014
 BATLAB is a university lab for A.I. and automation. During my BSc time, I was a researcher apprentice, working on PCB design and analog filters. [Website (outdated)](https://www.facebook.com/batlab.ufms/)
-
-## Education
-- University of Sao Paulo, Brazil — *M.Sc.*
-2017 - 2019
-Master’s degree in medical data & image processing. By analyzing MRI images, I developed a model-based machine learning algorithm to better estimate the percentage of fat in the human liver. [Thesis (in English)](https://teses.usp.br/teses/disponiveis/18/18152/tde-01102018-083519/publico/Yuri.pdf).
-
-- UFMS, Brazil / Western Michigan University, USA — *B.Sc.*
-2008 - 2014
-Bachelor of Science in Electrical Engineering. Awarded a scholarship to study Electrical Engineering at the Western Michigan University for one year. At that time I was part of the WMU’s [Solar Racing Car team](https://www.wmich.edu/sunseeker/) developing cooling systems.
 
 ## Skills
 - Strong math & physics background (Calculus, Linear Algebra, Electromagnetism)
